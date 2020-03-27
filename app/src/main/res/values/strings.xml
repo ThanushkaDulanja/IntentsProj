@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Number1">Number 1</string>
+    <string name="Number2">Number 2</string>
+    <string name="blank" />
+    <string name="btn_ok">OK</string>
+    <string name="addition">+</string>
+    <string name="substraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="devision">/</string>
+    <string name="custom_toast">Custom Toast...!!!! Loading Calculator</string>
+</resources>
